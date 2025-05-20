@@ -33,7 +33,7 @@
 Make sure you have Flutter installed. Then:
 
 ```bash
-git clone https://github.com/yourusername/space-havoc.git
+git clone https://github.com/TanmayLimje/space_havoc.git
 cd space-havoc
 flutter pub get
 flutter run
