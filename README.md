@@ -1,16 +1,39 @@
-# space_havoc
+# 🚀 Space Havoc
 
-A new Flutter project.
+**Space Havoc** is a 2D space shooter game built with [Flutter](https://flutter.dev/) and [Flame](https://flame-engine.org/). Pilot your spaceship through an asteroid field, destroy obstacles, and collect power-ups to survive as long as possible.
 
-## Getting Started
+<p align="center">
+  <img src=""C:\Users\chint\Downloads\start screen.jpg"" alt="Start Screen" width="250"/>
+  <img src=""C:\Users\chint\Downloads\gameplay.jpg"" alt="Gameplay" width="250"/>
+</p>
 
-This project is a starting point for a Flutter application.
+## 🕹️ Gameplay Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌌 **Endless Space Adventure**
+- 🛸 **Spaceship Selection** – Choose your favorite ship before launching
+- ☄️ **Destroy Asteroids** – Tap to shoot and clear your path
+- 🔰 **Collect Pickups** – Grab power-ups like:
+  - Shield 🛡️
+  - Bomb 💣
+  - Laser Multiplier 🔫
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** – UI framework
+- **Flame Engine** – 2D game engine
+- **Dart** – Programming language
+
+## 🎮 Controls
+
+- **Joystick (Left)** – Move the spaceship
+- **Fire Button (Right)** – Shoot bullets
+
+## 🚧 How to Run
+
+Make sure you have Flutter installed. Then:
+
+```bash
+git clone https://github.com/yourusername/space-havoc.git
+cd space-havoc
+flutter pub get
+flutter run
